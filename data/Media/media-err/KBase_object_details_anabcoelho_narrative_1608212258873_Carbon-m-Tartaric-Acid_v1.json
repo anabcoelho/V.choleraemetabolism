@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1308,
+            "Carbon-m-Tartaric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-15T03:32:27+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "474d25f79ff9315eb4bc9f3d6f5058f0",
+            2061,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/60/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:15:52+0000",
+            "creator": "chenry",
+            "epoch": 1390036552639,
+            "extracted_ids": {},
+            "info": [
+                1308,
+                "Carbon-m-Tartaric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-15T03:32:27+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "474d25f79ff9315eb4bc9f3d6f5058f0",
+                2061,
+                {}
+            ],
+            "path": [
+                "79695/1308/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532674000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:54+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

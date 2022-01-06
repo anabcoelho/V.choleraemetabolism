@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1191,
+            "Carbon-a-Keto-Glutaric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-07T20:09:59+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "b6b717cd274b5b9022e82b6835b77560",
+            2069,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/107/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:27:11+0000",
+            "creator": "chenry",
+            "epoch": 1390037231235,
+            "extracted_ids": {},
+            "info": [
+                1191,
+                "Carbon-a-Keto-Glutaric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-07T20:09:59+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "b6b717cd274b5b9022e82b6835b77560",
+                2069,
+                {}
+            ],
+            "path": [
+                "79695/1191/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532580000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:56:20+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

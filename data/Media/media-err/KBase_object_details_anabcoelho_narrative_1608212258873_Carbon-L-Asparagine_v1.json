@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            884,
+            "Carbon-L-Asparagine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-02T16:56:53+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "66856481c99bb69072692cc73136e9b7",
+            2053,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/29/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:08:42+0000",
+            "creator": "chenry",
+            "epoch": 1390036122028,
+            "extracted_ids": {},
+            "info": [
+                884,
+                "Carbon-L-Asparagine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-02T16:56:53+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "66856481c99bb69072692cc73136e9b7",
+                2053,
+                {}
+            ],
+            "path": [
+                "79695/884/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747859000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:19+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

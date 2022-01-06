@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            542,
+            "Carbon-D-Glucosamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-05-26T19:37:23+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "5327070c8b9fb74a87560b8a5a2d4642",
+            2055,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/75/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:19:20+0000",
+            "creator": "chenry",
+            "epoch": 1390036760500,
+            "extracted_ids": {},
+            "info": [
+                542,
+                "Carbon-D-Glucosamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-05-26T19:37:23+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "5327070c8b9fb74a87560b8a5a2d4642",
+                2055,
+                {}
+            ],
+            "path": [
+                "79695/542/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747864000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:24+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

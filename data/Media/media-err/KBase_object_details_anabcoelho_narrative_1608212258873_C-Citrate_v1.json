@@ -1,0 +1,69 @@
+{
+    "metadata": [
+        [
+            370,
+            "C-Citrate",
+            "KBaseBiochem.Media-4.0",
+            "2021-03-25T16:57:39+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "8ab81f8427c21a11630a40720c8f7d2e",
+            2340,
+            {
+                "Is Defined": "1",
+                "Is Minimal": "0",
+                "Name": "C-Citrate",
+                "Number compounds": "22",
+                "Source ID": "C-Citrate"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/526/1",
+            "copy_source_inaccessible": 0,
+            "created": "2015-09-02T17:51:40+0000",
+            "creator": "janakakbase",
+            "epoch": 1441216300407,
+            "extracted_ids": {},
+            "info": [
+                370,
+                "C-Citrate",
+                "KBaseBiochem.Media-4.0",
+                "2021-03-25T16:57:39+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "8ab81f8427c21a11630a40720c8f7d2e",
+                2340,
+                {
+                    "Is Defined": "1",
+                    "Is Minimal": "0",
+                    "Name": "C-Citrate",
+                    "Number compounds": "22",
+                    "Source ID": "C-Citrate"
+                }
+            ],
+            "path": [
+                "79695/370/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "resolved_ws_objects": [],
+                    "script": "ws-load",
+                    "script_command_line": "ws-load  KBaseBiochem.Media C-Citrate C-Citrate -w KBaseMedia",
+                    "service": "Workspace",
+                    "service_ver": "0.3.5",
+                    "subactions": []
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

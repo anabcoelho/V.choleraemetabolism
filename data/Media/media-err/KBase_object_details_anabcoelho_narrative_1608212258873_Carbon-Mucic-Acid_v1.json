@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1065,
+            "Carbon-Mucic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-05T02:49:54+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "91fc403d32f7b52b7640864f108b3b5f",
+            2049,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/15/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:04:20+0000",
+            "creator": "chenry",
+            "epoch": 1390035860397,
+            "extracted_ids": {},
+            "info": [
+                1065,
+                "Carbon-Mucic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-05T02:49:54+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "91fc403d32f7b52b7640864f108b3b5f",
+                2049,
+                {}
+            ],
+            "path": [
+                "79695/1065/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532679000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:59+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

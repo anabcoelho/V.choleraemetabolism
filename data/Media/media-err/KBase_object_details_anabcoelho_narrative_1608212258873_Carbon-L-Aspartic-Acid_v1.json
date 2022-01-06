@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            885,
+            "Carbon-L-Aspartic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-02T16:57:00+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "be06281e8c3467d73c05c60a8ebb98f4",
+            2060,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/262/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:19:49+0000",
+            "creator": "chenry",
+            "epoch": 1392020389815,
+            "extracted_ids": {},
+            "info": [
+                885,
+                "Carbon-L-Aspartic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-02T16:57:00+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "be06281e8c3467d73c05c60a8ebb98f4",
+                2060,
+                {}
+            ],
+            "path": [
+                "79695/885/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532664000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:44+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

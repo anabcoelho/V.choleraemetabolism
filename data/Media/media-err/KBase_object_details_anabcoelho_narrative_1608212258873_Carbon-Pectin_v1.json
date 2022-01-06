@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1074,
+            "Carbon-Pectin",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-05T02:51:17+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "4b0d674100fcf45735c530f6b656a492",
+            2041,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/213/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:55:12+0000",
+            "creator": "chenry",
+            "epoch": 1390038912056,
+            "extracted_ids": {},
+            "info": [
+                1074,
+                "Carbon-Pectin",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-05T02:51:17+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "4b0d674100fcf45735c530f6b656a492",
+                2041,
+                {}
+            ],
+            "path": [
+                "79695/1074/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747856000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:16+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

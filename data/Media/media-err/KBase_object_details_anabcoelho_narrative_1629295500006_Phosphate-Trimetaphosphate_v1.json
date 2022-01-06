@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            600,
+            "Phosphate-Trimetaphosphate",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:52:44+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "864441e1e0005f39e410a4d32e41d140",
+            2067,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/148/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:37:40+0000",
+            "creator": "chenry",
+            "epoch": 1390037860529,
+            "extracted_ids": {},
+            "info": [
+                600,
+                "Phosphate-Trimetaphosphate",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:52:44+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "864441e1e0005f39e410a4d32e41d140",
+                2067,
+                {}
+            ],
+            "path": [
+                "97098/600/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747843000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:03+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

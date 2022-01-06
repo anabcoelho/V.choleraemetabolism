@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            762,
+            "Carbon-Dihydroxy-Acetone",
+            "KBaseBiochem.Media-1.0",
+            "2021-07-16T17:48:54+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "415f274a38e7e4d9a9088795d949ed0e",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/378/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:38:32+0000",
+            "creator": "chenry",
+            "epoch": 1392021512060,
+            "extracted_ids": {},
+            "info": [
+                762,
+                "Carbon-Dihydroxy-Acetone",
+                "KBaseBiochem.Media-1.0",
+                "2021-07-16T17:48:54+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "415f274a38e7e4d9a9088795d949ed0e",
+                2064,
+                {}
+            ],
+            "path": [
+                "79695/762/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747861000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:21+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

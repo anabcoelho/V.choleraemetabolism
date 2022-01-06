@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            587,
+            "Phosphate-D-Mannose-6-Phosphate",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:51:45+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "6238473538eab353df088684796220a7",
+            2077,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/52/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:14:05+0000",
+            "creator": "chenry",
+            "epoch": 1390036445753,
+            "extracted_ids": {},
+            "info": [
+                587,
+                "Phosphate-D-Mannose-6-Phosphate",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:51:45+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "6238473538eab353df088684796220a7",
+                2077,
+                {}
+            ],
+            "path": [
+                "97098/587/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747844000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:04+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

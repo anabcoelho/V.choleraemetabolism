@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            879,
+            "Carbon-L-Alanine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-02T16:55:41+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "b54f06a3af18ed0dd65166243bab3217",
+            2048,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/241/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:16:26+0000",
+            "creator": "chenry",
+            "epoch": 1392020186072,
+            "extracted_ids": {},
+            "info": [
+                879,
+                "Carbon-L-Alanine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-02T16:55:41+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "b54f06a3af18ed0dd65166243bab3217",
+                2048,
+                {}
+            ],
+            "path": [
+                "79695/879/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747860000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:20+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

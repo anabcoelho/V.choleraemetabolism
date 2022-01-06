@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            591,
+            "Phosphate-Guanosine-5-Monophosphate",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:51:59+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "5ab2d2e0fc5cbc855f8f83232c6c9715",
+            2085,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/116/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:29:13+0000",
+            "creator": "chenry",
+            "epoch": 1390037353158,
+            "extracted_ids": {},
+            "info": [
+                591,
+                "Phosphate-Guanosine-5-Monophosphate",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:51:59+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "5ab2d2e0fc5cbc855f8f83232c6c9715",
+                2085,
+                {}
+            ],
+            "path": [
+                "97098/591/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1379604882000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-09-19T15:34:42+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

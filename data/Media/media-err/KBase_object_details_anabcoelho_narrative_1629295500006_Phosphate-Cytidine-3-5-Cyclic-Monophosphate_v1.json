@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            577,
+            "Phosphate-Cytidine-3-5-Cyclic-Monophosphate",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:50:37+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "a4dc9152368e362ad2c1c63ef00616b9",
+            2102,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/506/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:59:49+0000",
+            "creator": "chenry",
+            "epoch": 1392022789346,
+            "extracted_ids": {},
+            "info": [
+                577,
+                "Phosphate-Cytidine-3-5-Cyclic-Monophosphate",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:50:37+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "a4dc9152368e362ad2c1c63ef00616b9",
+                2102,
+                {}
+            ],
+            "path": [
+                "97098/577/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1379604858000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-09-19T15:34:18+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

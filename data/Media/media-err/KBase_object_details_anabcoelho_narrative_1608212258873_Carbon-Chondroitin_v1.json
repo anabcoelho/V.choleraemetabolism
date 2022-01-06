@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            442,
+            "Carbon-Chondroitin",
+            "KBaseBiochem.Media-1.0",
+            "2021-04-08T17:33:30+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "1fb3193bd06e85075fd511c2af3d59a1",
+            2061,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/228/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:59:11+0000",
+            "creator": "chenry",
+            "epoch": 1390039151045,
+            "extracted_ids": {},
+            "info": [
+                442,
+                "Carbon-Chondroitin",
+                "KBaseBiochem.Media-1.0",
+                "2021-04-08T17:33:30+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "1fb3193bd06e85075fd511c2af3d59a1",
+                2061,
+                {}
+            ],
+            "path": [
+                "79695/442/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747865000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:25+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

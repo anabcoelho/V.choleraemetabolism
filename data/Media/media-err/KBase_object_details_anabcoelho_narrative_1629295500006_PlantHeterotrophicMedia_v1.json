@@ -1,0 +1,58 @@
+{
+    "metadata": [
+        [
+            608,
+            "PlantHeterotrophicMedia",
+            "KBaseBiochem.Media-4.1",
+            "2021-08-25T14:53:08+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "c2762501c2770cec756b9ddf32e415d9",
+            1591,
+            {
+                "Is Defined": "1",
+                "Is Minimal": "0",
+                "Name": "PlantHeterotrophicMedia",
+                "Number compounds": "12",
+                "Source ID": "PlantSEED"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/278/11",
+            "copy_source_inaccessible": 0,
+            "created": "2018-07-26T00:55:29+0000",
+            "creator": "seaver",
+            "epoch": 1532566529218,
+            "extracted_ids": {},
+            "info": [
+                608,
+                "PlantHeterotrophicMedia",
+                "KBaseBiochem.Media-4.1",
+                "2021-08-25T14:53:08+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "c2762501c2770cec756b9ddf32e415d9",
+                1591,
+                {
+                    "Is Defined": "1",
+                    "Is Minimal": "0",
+                    "Name": "PlantHeterotrophicMedia",
+                    "Number compounds": "12",
+                    "Source ID": "PlantSEED"
+                }
+            ],
+            "orig_wsid": 262,
+            "path": [
+                "97098/608/1"
+            ],
+            "provenance": [],
+            "refs": []
+        }
+    ]
+}
