@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1178,
+            "Carbon-Succinic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-07T20:07:39+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "7c7066d618640deadc51819eb0544b68",
+            2056,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/454/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:51:11+0000",
+            "creator": "chenry",
+            "epoch": 1392022271085,
+            "extracted_ids": {},
+            "info": [
+                1178,
+                "Carbon-Succinic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-07T20:07:39+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "7c7066d618640deadc51819eb0544b68",
+                2056,
+                {}
+            ],
+            "path": [
+                "79695/1178/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377530950000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:29:10+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

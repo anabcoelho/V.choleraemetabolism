@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            343,
+            "Sulfate-p-Amino-Benzene-Sulfonic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:31:41+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "978e5662339bf041d4cd0e491eb6b207",
+            2089,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/68/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:17:36+0000",
+            "creator": "chenry",
+            "epoch": 1390036656793,
+            "extracted_ids": {},
+            "info": [
+                343,
+                "Sulfate-p-Amino-Benzene-Sulfonic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:31:41+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "978e5662339bf041d4cd0e491eb6b207",
+                2089,
+                {}
+            ],
+            "path": [
+                "98416/343/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1379604902000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-09-19T15:35:02+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

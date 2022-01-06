@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            892,
+            "Carbon-L-Lactic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-02T17:00:30+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "5bbd3e41ebb61e0d5679a4ebd3e7d214",
+            2055,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/181/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:47:57+0000",
+            "creator": "chenry",
+            "epoch": 1390038477821,
+            "extracted_ids": {},
+            "info": [
+                892,
+                "Carbon-L-Lactic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-02T17:00:30+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "5bbd3e41ebb61e0d5679a4ebd3e7d214",
+                2055,
+                {}
+            ],
+            "path": [
+                "79695/892/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532668000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:48+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

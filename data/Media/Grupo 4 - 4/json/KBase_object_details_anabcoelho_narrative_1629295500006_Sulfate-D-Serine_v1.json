@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1108,
+            "Sulfate-D-Serine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-31T21:03:55+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "0de7bbb6cd5dc508ee69a75f5b6b3afb",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/415/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:44:41+0000",
+            "creator": "chenry",
+            "epoch": 1392021881814,
+            "extracted_ids": {},
+            "info": [
+                1108,
+                "Sulfate-D-Serine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-31T21:03:55+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "0de7bbb6cd5dc508ee69a75f5b6b3afb",
+                2058,
+                {}
+            ],
+            "path": [
+                "97098/1108/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747873000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:33+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

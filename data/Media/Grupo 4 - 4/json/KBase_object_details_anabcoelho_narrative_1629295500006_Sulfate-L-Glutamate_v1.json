@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1318,
+            "Sulfate-L-Glutamate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:15:15+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "b8215dff3c21c4bd83895f8e06c24055",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/247/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:17:17+0000",
+            "creator": "chenry",
+            "epoch": 1392020237153,
+            "extracted_ids": {},
+            "info": [
+                1318,
+                "Sulfate-L-Glutamate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:15:15+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "b8215dff3c21c4bd83895f8e06c24055",
+                2064,
+                {}
+            ],
+            "path": [
+                "97098/1318/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747877000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

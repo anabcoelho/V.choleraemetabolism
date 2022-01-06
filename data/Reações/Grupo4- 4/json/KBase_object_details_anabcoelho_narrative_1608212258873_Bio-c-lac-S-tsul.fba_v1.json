@@ -1,0 +1,116 @@
+{
+    "metadata": [
+        [
+            282,
+            "Bio-c-lac-S-tsul.fba",
+            "KBaseFBA.FBA-13.2",
+            "2021-03-06T17:10:59+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "821b37f847b0fe63d5597ea0d5018759",
+            37524,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "79695/156/1",
+                "Minimize reactions": "0",
+                "Model": "79695/279/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "9",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "39",
+                "Objective": "4.03435"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-03-06T17:10:58+0000",
+            "creator": "anabcoelho",
+            "epoch": 1615050658902,
+            "extracted_ids": {},
+            "info": [
+                282,
+                "Bio-c-lac-S-tsul.fba",
+                "KBaseFBA.FBA-13.2",
+                "2021-03-06T17:10:59+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "821b37f847b0fe63d5597ea0d5018759",
+                37524,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "79695/156/1",
+                    "Minimize reactions": "0",
+                    "Model": "79695/279/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "9",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "39",
+                    "Objective": "4.03435"
+                }
+            ],
+            "orig_wsid": 79695,
+            "path": [
+                "79695/282/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "Bio-c-lac-S-tsul.fba",
+                            "fbamodel_id": "79695/279/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "79695/156/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1608212258873"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "79695/279/1",
+                "79695/156/1"
+            ]
+        }
+    ]
+}

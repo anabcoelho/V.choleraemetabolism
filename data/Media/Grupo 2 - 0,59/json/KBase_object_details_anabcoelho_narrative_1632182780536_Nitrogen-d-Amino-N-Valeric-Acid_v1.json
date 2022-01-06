@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            64,
+            "Nitrogen-d-Amino-N-Valeric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T17:56:07+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "3c9f1b9c5f6ed8aa7fc22308122a1242",
+            2080,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/511/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T09:00:38+0000",
+            "creator": "chenry",
+            "epoch": 1392022838564,
+            "extracted_ids": {},
+            "info": [
+                64,
+                "Nitrogen-d-Amino-N-Valeric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T17:56:07+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "3c9f1b9c5f6ed8aa7fc22308122a1242",
+                2080,
+                {}
+            ],
+            "path": [
+                "99184/64/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532715000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:58:35+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

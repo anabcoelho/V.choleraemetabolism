@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            46,
+            "Sulfate-Nitrate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:29:28+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "642d6015794651bbf2c251985e69581b",
+            2056,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/499/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:58:40+0000",
+            "creator": "chenry",
+            "epoch": 1392022720599,
+            "extracted_ids": {},
+            "info": [
+                46,
+                "Sulfate-Nitrate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:29:28+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "642d6015794651bbf2c251985e69581b",
+                2056,
+                {}
+            ],
+            "path": [
+                "98416/46/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747880000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:40+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

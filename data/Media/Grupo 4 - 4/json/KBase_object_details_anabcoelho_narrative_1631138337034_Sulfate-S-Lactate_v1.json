@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            318,
+            "Sulfate-S-Lactate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:29:48+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "5afd3b94d2b91db42ace02546f0143f3",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/410/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:43:52+0000",
+            "creator": "chenry",
+            "epoch": 1392021832282,
+            "extracted_ids": {},
+            "info": [
+                318,
+                "Sulfate-S-Lactate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:29:48+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "5afd3b94d2b91db42ace02546f0143f3",
+                2064,
+                {}
+            ],
+            "path": [
+                "98416/318/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532792000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:52+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

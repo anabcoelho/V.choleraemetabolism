@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            321,
+            "Sulfate-Sebacic-acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:30:00+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "a7a7aefc9380a83a81afbf2defc45da6",
+            2066,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/445/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:49:40+0000",
+            "creator": "chenry",
+            "epoch": 1392022180805,
+            "extracted_ids": {},
+            "info": [
+                321,
+                "Sulfate-Sebacic-acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:30:00+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "a7a7aefc9380a83a81afbf2defc45da6",
+                2066,
+                {}
+            ],
+            "path": [
+                "98416/321/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377530623000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:23:43+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

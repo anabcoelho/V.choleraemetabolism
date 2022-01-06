@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            95,
+            "Sulfate-Propane-1-2-diol",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T18:07:18+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "5a5f34505fa04e28379388e542982df7",
+            2074,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/288/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:24:11+0000",
+            "creator": "chenry",
+            "epoch": 1392020651716,
+            "extracted_ids": {},
+            "info": [
+                95,
+                "Sulfate-Propane-1-2-diol",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T18:07:18+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "5a5f34505fa04e28379388e542982df7",
+                2074,
+                {}
+            ],
+            "path": [
+                "99184/95/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377530889000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:28:09+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

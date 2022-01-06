@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            743,
+            "Sulfate-Ala-His",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-26T02:02:46+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "e9ddcccb4135026fa504df2da7d571ed",
+            2056,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/275/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:21:56+0000",
+            "creator": "chenry",
+            "epoch": 1392020516468,
+            "extracted_ids": {},
+            "info": [
+                743,
+                "Sulfate-Ala-His",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-26T02:02:46+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "e9ddcccb4135026fa504df2da7d571ed",
+                2056,
+                {}
+            ],
+            "path": [
+                "97098/743/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747870000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:30+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

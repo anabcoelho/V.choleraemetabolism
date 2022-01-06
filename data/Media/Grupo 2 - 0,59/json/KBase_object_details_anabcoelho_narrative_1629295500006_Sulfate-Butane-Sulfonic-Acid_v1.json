@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            749,
+            "Sulfate-Butane-Sulfonic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-26T02:03:13+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "5e01772139de3ac41e07373bb8c1e814",
+            2071,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/179/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:47:04+0000",
+            "creator": "chenry",
+            "epoch": 1390038424299,
+            "extracted_ids": {},
+            "info": [
+                749,
+                "Sulfate-Butane-Sulfonic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-26T02:03:13+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "5e01772139de3ac41e07373bb8c1e814",
+                2071,
+                {}
+            ],
+            "path": [
+                "97098/749/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532763000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:23+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

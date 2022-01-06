@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            351,
+            "Nitrogen-L-Homoserine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-23T01:37:58+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "f6507445f52e5244a58a4a7be61fe993",
+            2057,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/226/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:58:17+0000",
+            "creator": "chenry",
+            "epoch": 1390039097951,
+            "extracted_ids": {},
+            "info": [
+                351,
+                "Nitrogen-L-Homoserine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-23T01:37:58+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "f6507445f52e5244a58a4a7be61fe993",
+                2057,
+                {}
+            ],
+            "path": [
+                "97098/351/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747849000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:09+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

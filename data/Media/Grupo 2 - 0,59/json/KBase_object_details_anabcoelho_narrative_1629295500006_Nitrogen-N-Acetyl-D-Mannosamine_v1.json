@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            496,
+            "Nitrogen-N-Acetyl-D-Mannosamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T02:17:30+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "2f3fa20efe4172a7b95037842356ee06",
+            2077,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/101/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:25:06+0000",
+            "creator": "chenry",
+            "epoch": 1390037106199,
+            "extracted_ids": {},
+            "info": [
+                496,
+                "Nitrogen-N-Acetyl-D-Mannosamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T02:17:30+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "2f3fa20efe4172a7b95037842356ee06",
+                2077,
+                {}
+            ],
+            "path": [
+                "97098/496/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747847000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:07+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1300,
+            "Sulfate-Glyoxylate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:11:20+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "22757df510e34ab5f926f5a476bc0e2e",
+            2062,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/460/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:52:09+0000",
+            "creator": "chenry",
+            "epoch": 1392022329691,
+            "extracted_ids": {},
+            "info": [
+                1300,
+                "Sulfate-Glyoxylate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:11:20+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "22757df510e34ab5f926f5a476bc0e2e",
+                2062,
+                {}
+            ],
+            "path": [
+                "97098/1300/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747875000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:35+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

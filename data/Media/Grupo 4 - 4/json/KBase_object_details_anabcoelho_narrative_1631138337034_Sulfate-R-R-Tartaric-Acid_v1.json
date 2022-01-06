@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            316,
+            "Sulfate-R-R-Tartaric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:29:43+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "a69b13d236b51cad05b60129292ca5de",
+            2079,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/43/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:11:51+0000",
+            "creator": "chenry",
+            "epoch": 1390036311219,
+            "extracted_ids": {},
+            "info": [
+                316,
+                "Sulfate-R-R-Tartaric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:29:43+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "a69b13d236b51cad05b60129292ca5de",
+                2079,
+                {}
+            ],
+            "path": [
+                "98416/316/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532790000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:50+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

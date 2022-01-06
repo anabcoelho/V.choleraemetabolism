@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            155,
+            "Biolog-C-lac-S-so3",
+            "KBaseBiochem.Media-1.0",
+            "2021-02-11T19:36:14+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "0e75366927103f2580cce5158a01cf19",
+            1963,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/480/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:55:29+0000",
+            "creator": "chenry",
+            "epoch": 1392022529257,
+            "extracted_ids": {},
+            "info": [
+                155,
+                "Biolog-C-lac-S-so3",
+                "KBaseBiochem.Media-1.0",
+                "2021-02-11T19:36:14+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "0e75366927103f2580cce5158a01cf19",
+                1963,
+                {}
+            ],
+            "path": [
+                "79695/155/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747885000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:45+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            339,
+            "Sulfate-Xanthine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:31:28+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "e0a9eee21ae4be5d478b65b604897388",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/398/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:41:51+0000",
+            "creator": "chenry",
+            "epoch": 1392021711612,
+            "extracted_ids": {},
+            "info": [
+                339,
+                "Sulfate-Xanthine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:31:28+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "e0a9eee21ae4be5d478b65b604897388",
+                2058,
+                {}
+            ],
+            "path": [
+                "98416/339/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747883000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:43+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

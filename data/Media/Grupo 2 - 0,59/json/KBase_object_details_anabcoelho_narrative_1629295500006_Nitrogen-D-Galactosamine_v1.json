@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            199,
+            "Nitrogen-D-Galactosamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-20T20:52:58+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "47e84c7cba44410799f9038f17d8c0dd",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/268/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:20:48+0000",
+            "creator": "chenry",
+            "epoch": 1392020448229,
+            "extracted_ids": {},
+            "info": [
+                199,
+                "Nitrogen-D-Galactosamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-20T20:52:58+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "47e84c7cba44410799f9038f17d8c0dd",
+                2064,
+                {}
+            ],
+            "path": [
+                "97098/199/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747852000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:12+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

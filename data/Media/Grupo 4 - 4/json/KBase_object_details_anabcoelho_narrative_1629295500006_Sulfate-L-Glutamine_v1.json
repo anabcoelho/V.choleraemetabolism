@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1319,
+            "Sulfate-L-Glutamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:15:25+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "7bb60aefe9c4e9d6054e79c07f8a2005",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/351/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:34:07+0000",
+            "creator": "chenry",
+            "epoch": 1392021247671,
+            "extracted_ids": {},
+            "info": [
+                1319,
+                "Sulfate-L-Glutamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:15:25+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "7bb60aefe9c4e9d6054e79c07f8a2005",
+                2064,
+                {}
+            ],
+            "path": [
+                "97098/1319/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747877000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

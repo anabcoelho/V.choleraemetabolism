@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            53,
+            "Nitrogen-Hydroxylamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T17:53:28+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "9cde96a14a464d5f40e63d68eb7fecae",
+            2060,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/408/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:43:31+0000",
+            "creator": "chenry",
+            "epoch": 1392021811938,
+            "extracted_ids": {},
+            "info": [
+                53,
+                "Nitrogen-Hydroxylamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T17:53:28+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "9cde96a14a464d5f40e63d68eb7fecae",
+                2060,
+                {}
+            ],
+            "path": [
+                "99184/53/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747850000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:10+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

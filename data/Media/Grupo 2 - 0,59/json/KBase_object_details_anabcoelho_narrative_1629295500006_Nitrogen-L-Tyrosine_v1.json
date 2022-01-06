@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            363,
+            "Nitrogen-L-Tyrosine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-23T01:38:41+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "f7d12248f0045272fa7b06f1a750fa0b",
+            2053,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/39/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:11:03+0000",
+            "creator": "chenry",
+            "epoch": 1390036263065,
+            "extracted_ids": {},
+            "info": [
+                363,
+                "Nitrogen-L-Tyrosine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-23T01:38:41+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "f7d12248f0045272fa7b06f1a750fa0b",
+                2053,
+                {}
+            ],
+            "path": [
+                "97098/363/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747848000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:08+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

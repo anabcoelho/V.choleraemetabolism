@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            319,
+            "Sulfate-S-Malate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:29:51+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "11d36bac8cb760e6dc45332e10697b50",
+            2062,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/458/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:51:51+0000",
+            "creator": "chenry",
+            "epoch": 1392022311420,
+            "extracted_ids": {},
+            "info": [
+                319,
+                "Sulfate-S-Malate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:29:51+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "11d36bac8cb760e6dc45332e10697b50",
+                2062,
+                {}
+            ],
+            "path": [
+                "98416/319/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532794000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:54+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

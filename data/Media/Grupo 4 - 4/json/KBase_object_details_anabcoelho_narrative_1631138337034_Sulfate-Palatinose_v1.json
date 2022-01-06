@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            49,
+            "Sulfate-Palatinose",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:29:36+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "0563a9581dc2756416b478609722fa74",
+            2061,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/175/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:46:21+0000",
+            "creator": "chenry",
+            "epoch": 1390038381228,
+            "extracted_ids": {},
+            "info": [
+                49,
+                "Sulfate-Palatinose",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:29:36+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "0563a9581dc2756416b478609722fa74",
+                2061,
+                {}
+            ],
+            "path": [
+                "98416/49/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747880000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:40+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

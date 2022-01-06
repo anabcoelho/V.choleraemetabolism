@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            346,
+            "Nitrogen-L-Citrulline",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-23T01:37:46+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "285e5f619bf6a12a5ca3f22c81255b7c",
+            2057,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/169/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:45:00+0000",
+            "creator": "chenry",
+            "epoch": 1390038300726,
+            "extracted_ids": {},
+            "info": [
+                346,
+                "Nitrogen-L-Citrulline",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-23T01:37:46+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "285e5f619bf6a12a5ca3f22c81255b7c",
+                2057,
+                {}
+            ],
+            "path": [
+                "97098/346/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747849000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:09+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

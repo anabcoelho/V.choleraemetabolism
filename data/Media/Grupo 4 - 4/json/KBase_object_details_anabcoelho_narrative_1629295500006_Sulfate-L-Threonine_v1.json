@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1334,
+            "Sulfate-L-Threonine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:19:17+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "127f9838c8e94af6aee51b3ed3dad1da",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/496/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:58:11+0000",
+            "creator": "chenry",
+            "epoch": 1392022691016,
+            "extracted_ids": {},
+            "info": [
+                1334,
+                "Sulfate-L-Threonine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:19:17+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "127f9838c8e94af6aee51b3ed3dad1da",
+                2064,
+                {}
+            ],
+            "path": [
+                "97098/1334/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747878000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:38+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

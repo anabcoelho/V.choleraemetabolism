@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            52,
+            "Sulfate-Propanoate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:29:44+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "89fcba2fcf86bc52b8062604f1f5645c",
+            2061,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/200/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:52:21+0000",
+            "creator": "chenry",
+            "epoch": 1390038741866,
+            "extracted_ids": {},
+            "info": [
+                52,
+                "Sulfate-Propanoate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:29:44+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "89fcba2fcf86bc52b8062604f1f5645c",
+                2061,
+                {}
+            ],
+            "path": [
+                "98416/52/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747881000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:41+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

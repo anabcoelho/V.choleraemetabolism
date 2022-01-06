@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            19,
+            "Sulfate-L-Phenylalanine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:18:22+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "061c0721a0bd8bdc549d660a2d1f66b3",
+            2071,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/122/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:30:56+0000",
+            "creator": "chenry",
+            "epoch": 1390037456254,
+            "extracted_ids": {},
+            "info": [
+                19,
+                "Sulfate-L-Phenylalanine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:18:22+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "061c0721a0bd8bdc549d660a2d1f66b3",
+                2071,
+                {}
+            ],
+            "path": [
+                "98416/19/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747878000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:38+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

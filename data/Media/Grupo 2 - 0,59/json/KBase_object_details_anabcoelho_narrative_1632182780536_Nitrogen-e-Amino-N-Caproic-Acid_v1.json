@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            65,
+            "Nitrogen-e-Amino-N-Caproic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T17:56:19+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "f6daa7943427de3be9bda38d73a87266",
+            2080,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/468/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:53:26+0000",
+            "creator": "chenry",
+            "epoch": 1392022406393,
+            "extracted_ids": {},
+            "info": [
+                65,
+                "Nitrogen-e-Amino-N-Caproic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T17:56:19+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "f6daa7943427de3be9bda38d73a87266",
+                2080,
+                {}
+            ],
+            "path": [
+                "99184/65/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1379604826000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-09-19T15:33:46+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            320,
+            "Sulfate-Salicin",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:29:54+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "d1b85ea6b8af2ea8ef407d53b6d3e75a",
+            2055,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/209/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:54:05+0000",
+            "creator": "chenry",
+            "epoch": 1390038845945,
+            "extracted_ids": {},
+            "info": [
+                320,
+                "Sulfate-Salicin",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:29:54+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "d1b85ea6b8af2ea8ef407d53b6d3e75a",
+                2055,
+                {}
+            ],
+            "path": [
+                "98416/320/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747881000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:41+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

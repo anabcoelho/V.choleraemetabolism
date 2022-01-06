@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            7,
+            "Sulfate-L-Djenkolic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:17:54+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "4e8cec1cfcf6d35420d2c24d89f1096f",
+            2063,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/114/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:28:53+0000",
+            "creator": "chenry",
+            "epoch": 1390037333249,
+            "extracted_ids": {},
+            "info": [
+                7,
+                "Sulfate-L-Djenkolic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:17:54+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "4e8cec1cfcf6d35420d2c24d89f1096f",
+                2063,
+                {}
+            ],
+            "path": [
+                "98416/7/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532775000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:35+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

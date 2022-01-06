@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1320,
+            "Sulfate-L-Histidine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:15:30+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "d494cfbec11dfc72af681cc13199da94",
+            2063,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/37/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:10:39+0000",
+            "creator": "chenry",
+            "epoch": 1390036239853,
+            "extracted_ids": {},
+            "info": [
+                1320,
+                "Sulfate-L-Histidine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:15:30+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "d494cfbec11dfc72af681cc13199da94",
+                2063,
+                {}
+            ],
+            "path": [
+                "97098/1320/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747877000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

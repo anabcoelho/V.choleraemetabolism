@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            756,
+            "Sulfate-Cytosine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-26T02:03:41+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "08a7617ffdc3a26247e5c5680ece8b1f",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/322/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:29:23+0000",
+            "creator": "chenry",
+            "epoch": 1392020963096,
+            "extracted_ids": {},
+            "info": [
+                756,
+                "Sulfate-Cytosine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-26T02:03:41+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "08a7617ffdc3a26247e5c5680ece8b1f",
+                2058,
+                {}
+            ],
+            "path": [
+                "97098/756/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747871000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:31+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1101,
+            "Sulfate-D-L-Lipoamide",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-31T21:03:21+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "94f34fde3376c7e30db2f17c765050b2",
+            2060,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/251/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:17:55+0000",
+            "creator": "chenry",
+            "epoch": 1392020275442,
+            "extracted_ids": {},
+            "info": [
+                1101,
+                "Sulfate-D-L-Lipoamide",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-31T21:03:21+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "94f34fde3376c7e30db2f17c765050b2",
+                2060,
+                {}
+            ],
+            "path": [
+                "97098/1101/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532771000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:31+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

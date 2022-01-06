@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            505,
+            "Nitrogen-Uric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T02:18:15+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "fa7746bf961c0c3c933aa111d02a9fbf",
+            2052,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/238/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:15:58+0000",
+            "creator": "chenry",
+            "epoch": 1392020158046,
+            "extracted_ids": {},
+            "info": [
+                505,
+                "Nitrogen-Uric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T02:18:15+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "fa7746bf961c0c3c933aa111d02a9fbf",
+                2052,
+                {}
+            ],
+            "path": [
+                "97098/505/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532724000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:58:44+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

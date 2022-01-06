@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1333,
+            "Sulfate-L-Sorbose",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:19:13+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "74b14cb759c2d9d5bac22a472e635862",
+            2059,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/137/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:34:41+0000",
+            "creator": "chenry",
+            "epoch": 1390037681627,
+            "extracted_ids": {},
+            "info": [
+                1333,
+                "Sulfate-L-Sorbose",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:19:13+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "74b14cb759c2d9d5bac22a472e635862",
+                2059,
+                {}
+            ],
+            "path": [
+                "97098/1333/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747878000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:38+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

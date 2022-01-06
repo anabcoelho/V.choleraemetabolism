@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            502,
+            "Nitrogen-Tyramine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T02:17:51+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "2bfd5f565b5ff8f5ca2331f0c6fe59e8",
+            2050,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/242/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:16:35+0000",
+            "creator": "chenry",
+            "epoch": 1392020195543,
+            "extracted_ids": {},
+            "info": [
+                502,
+                "Nitrogen-Tyramine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T02:17:51+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "2bfd5f565b5ff8f5ca2331f0c6fe59e8",
+                2050,
+                {}
+            ],
+            "path": [
+                "97098/502/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747847000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:07+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

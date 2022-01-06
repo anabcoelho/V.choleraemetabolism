@@ -1,0 +1,116 @@
+{
+    "metadata": [
+        [
+            320,
+            "MR1Anaerobic.fba",
+            "KBaseFBA.FBA-13.2",
+            "2021-09-19T21:56:29+0000",
+            1,
+            "anabcoelho",
+            99021,
+            "anabcoelho:narrative_1631920929644",
+            "8679608516693750c4afe67252de1481",
+            37547,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "99021/269/1",
+                "Minimize reactions": "0",
+                "Model": "99021/317/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "11",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "38",
+                "Objective": "0.404401"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-09-19T21:56:29+0000",
+            "creator": "anabcoelho",
+            "epoch": 1632088589437,
+            "extracted_ids": {},
+            "info": [
+                320,
+                "MR1Anaerobic.fba",
+                "KBaseFBA.FBA-13.2",
+                "2021-09-19T21:56:29+0000",
+                1,
+                "anabcoelho",
+                99021,
+                "anabcoelho:narrative_1631920929644",
+                "8679608516693750c4afe67252de1481",
+                37547,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "99021/269/1",
+                    "Minimize reactions": "0",
+                    "Model": "99021/317/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "11",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "38",
+                    "Objective": "0.404401"
+                }
+            ],
+            "orig_wsid": 99021,
+            "path": [
+                "99021/320/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "MR1Anaerobic.fba",
+                            "fbamodel_id": "99021/317/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "99021/269/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1631920929644"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "99021/269/1",
+                "99021/317/1"
+            ]
+        }
+    ]
+}

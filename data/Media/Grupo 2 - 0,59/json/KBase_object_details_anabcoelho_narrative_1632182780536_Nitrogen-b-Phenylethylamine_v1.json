@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            63,
+            "Nitrogen-b-Phenylethylamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T17:56:06+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "27d11326b49ea6889947c68cf6d50e7c",
+            2071,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/21/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:05:30+0000",
+            "creator": "chenry",
+            "epoch": 1390035930706,
+            "extracted_ids": {},
+            "info": [
+                63,
+                "Nitrogen-b-Phenylethylamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T17:56:06+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "27d11326b49ea6889947c68cf6d50e7c",
+                2071,
+                {}
+            ],
+            "path": [
+                "99184/63/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747852000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:12+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

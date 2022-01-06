@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            201,
+            "Nitrogen-D-Glutamic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-20T20:53:04+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "4822d9851b93772dae3f054b6d5fe079",
+            2063,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/87/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:22:01+0000",
+            "creator": "chenry",
+            "epoch": 1390036921481,
+            "extracted_ids": {},
+            "info": [
+                201,
+                "Nitrogen-D-Glutamic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-20T20:53:04+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "4822d9851b93772dae3f054b6d5fe079",
+                2063,
+                {}
+            ],
+            "path": [
+                "97098/201/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532717000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:58:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

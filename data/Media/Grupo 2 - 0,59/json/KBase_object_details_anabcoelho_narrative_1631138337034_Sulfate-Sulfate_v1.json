@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            325,
+            "Sulfate-Sulfate",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:30:24+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "6c9636b33056225b36503459f7e5963f",
+            2046,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/353/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:34:26+0000",
+            "creator": "chenry",
+            "epoch": 1392021266758,
+            "extracted_ids": {},
+            "info": [
+                325,
+                "Sulfate-Sulfate",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:30:24+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "6c9636b33056225b36503459f7e5963f",
+                2046,
+                {}
+            ],
+            "path": [
+                "98416/325/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747882000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:42+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

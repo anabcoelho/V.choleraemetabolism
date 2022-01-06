@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            333,
+            "Sulfate-Tween-20",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-10T02:30:49+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "a0d54b4f30de9a949ad28752ec0493ea",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/256/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:18:43+0000",
+            "creator": "chenry",
+            "epoch": 1392020323969,
+            "extracted_ids": {},
+            "info": [
+                333,
+                "Sulfate-Tween-20",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-10T02:30:49+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "a0d54b4f30de9a949ad28752ec0493ea",
+                2058,
+                {}
+            ],
+            "path": [
+                "98416/333/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532798000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:58+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            508,
+            "Nitrogen-Xanthosine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T02:18:22+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "68086433e6f117c315ce3bc68cdfabbd",
+            2054,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/492/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:57:32+0000",
+            "creator": "chenry",
+            "epoch": 1392022652624,
+            "extracted_ids": {},
+            "info": [
+                508,
+                "Nitrogen-Xanthosine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T02:18:22+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "68086433e6f117c315ce3bc68cdfabbd",
+                2054,
+                {}
+            ],
+            "path": [
+                "97098/508/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747846000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:06+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

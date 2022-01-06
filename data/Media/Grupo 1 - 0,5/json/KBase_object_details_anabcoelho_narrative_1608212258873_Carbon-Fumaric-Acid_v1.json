@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            766,
+            "Carbon-Fumaric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-07-16T17:49:15+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "179c22cfde9d70a4595c42ee1d75e5f1",
+            2053,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/136/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:34:23+0000",
+            "creator": "chenry",
+            "epoch": 1390037663941,
+            "extracted_ids": {},
+            "info": [
+                766,
+                "Carbon-Fumaric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-07-16T17:49:15+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "179c22cfde9d70a4595c42ee1d75e5f1",
+                2053,
+                {}
+            ],
+            "path": [
+                "79695/766/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532649000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:29+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

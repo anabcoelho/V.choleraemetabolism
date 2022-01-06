@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            197,
+            "Nitrogen-D-Asparagine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-20T20:52:52+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "cd7cf95e046267fa87bdd4fe172e3699",
+            2057,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/168/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:44:51+0000",
+            "creator": "chenry",
+            "epoch": 1390038291324,
+            "extracted_ids": {},
+            "info": [
+                197,
+                "Nitrogen-D-Asparagine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-20T20:52:52+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "cd7cf95e046267fa87bdd4fe172e3699",
+                2057,
+                {}
+            ],
+            "path": [
+                "97098/197/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747852000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:12+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

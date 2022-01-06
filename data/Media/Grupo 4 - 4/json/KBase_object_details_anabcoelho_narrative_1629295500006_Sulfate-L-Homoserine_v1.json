@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1321,
+            "Sulfate-L-Homoserine",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:15:36+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "e5b26065d61cdb2effd3981738d765df",
+            2066,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/484/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:56:11+0000",
+            "creator": "chenry",
+            "epoch": 1392022571709,
+            "extracted_ids": {},
+            "info": [
+                1321,
+                "Sulfate-L-Homoserine",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:15:36+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "e5b26065d61cdb2effd3981738d765df",
+                2066,
+                {}
+            ],
+            "path": [
+                "97098/1321/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747877000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            33,
+            "Sulfate-Maltotriose",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:19:07+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "9e092178d217fa0ba49a75baf4c19d70",
+            2063,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/17/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:04:51+0000",
+            "creator": "chenry",
+            "epoch": 1390035891450,
+            "extracted_ids": {},
+            "info": [
+                33,
+                "Sulfate-Maltotriose",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:19:07+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "9e092178d217fa0ba49a75baf4c19d70",
+                2063,
+                {}
+            ],
+            "path": [
+                "98416/33/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747879000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:39+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

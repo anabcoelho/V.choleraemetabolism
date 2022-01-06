@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            50,
+            "Sulfate-Pectin",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-08T22:29:39+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "c57bfd958eee84160e3620b0d4396c99",
+            2053,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/225/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:58:08+0000",
+            "creator": "chenry",
+            "epoch": 1390039088303,
+            "extracted_ids": {},
+            "info": [
+                50,
+                "Sulfate-Pectin",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-08T22:29:39+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "c57bfd958eee84160e3620b0d4396c99",
+                2053,
+                {}
+            ],
+            "path": [
+                "98416/50/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747881000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:41+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

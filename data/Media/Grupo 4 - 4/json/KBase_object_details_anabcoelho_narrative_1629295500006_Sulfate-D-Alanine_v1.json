@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1086,
+            "Sulfate-D-Alanine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-31T20:58:07+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "d523652776134248baa770e55b7b875b",
+            2059,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/38/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:10:49+0000",
+            "creator": "chenry",
+            "epoch": 1390036249253,
+            "extracted_ids": {},
+            "info": [
+                1086,
+                "Sulfate-D-Alanine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-31T20:58:07+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "d523652776134248baa770e55b7b875b",
+                2059,
+                {}
+            ],
+            "path": [
+                "97098/1086/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747871000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:31+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

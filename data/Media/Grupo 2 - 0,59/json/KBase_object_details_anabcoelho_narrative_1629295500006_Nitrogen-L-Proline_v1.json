@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            358,
+            "Nitrogen-L-Proline",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-23T01:38:23+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "20f2c3ca6d95bd51b2c31f09bebfa0b2",
+            2051,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/25/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:07:07+0000",
+            "creator": "chenry",
+            "epoch": 1390036027728,
+            "extracted_ids": {},
+            "info": [
+                358,
+                "Nitrogen-L-Proline",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-23T01:38:23+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "20f2c3ca6d95bd51b2c31f09bebfa0b2",
+                2051,
+                {}
+            ],
+            "path": [
+                "97098/358/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747848000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:08+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

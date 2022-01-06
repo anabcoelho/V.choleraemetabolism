@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            87,
+            "Sulfate-L-Arabinose",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-21T18:05:06+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "6858c388304b9dffc08d8cd3c6053578",
+            2064,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/279/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:22:33+0000",
+            "creator": "chenry",
+            "epoch": 1392020553753,
+            "extracted_ids": {},
+            "info": [
+                87,
+                "Sulfate-L-Arabinose",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-21T18:05:06+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "6858c388304b9dffc08d8cd3c6053578",
+                2064,
+                {}
+            ],
+            "path": [
+                "99184/87/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747876000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:36+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

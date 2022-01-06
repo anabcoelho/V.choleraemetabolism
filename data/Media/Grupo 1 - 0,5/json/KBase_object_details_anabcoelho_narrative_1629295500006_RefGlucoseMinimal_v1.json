@@ -1,0 +1,102 @@
+{
+    "metadata": [
+        [
+            609,
+            "RefGlucoseMinimal",
+            "KBaseBiochem.Media-4.1",
+            "2021-08-25T14:53:12+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "ff0f3e5af1eefacf78d923b87d63f2db",
+            3299,
+            {
+                "Is Defined": "1",
+                "Is Minimal": "0",
+                "Name": "Carbon-D-Glucose",
+                "Number compounds": "20",
+                "Source ID": "Carbon-D-Glucose"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/535/3",
+            "copy_source_inaccessible": 0,
+            "created": "2018-10-12T20:42:12+0000",
+            "creator": "chenry",
+            "epoch": 1539376932968,
+            "extracted_ids": {},
+            "info": [
+                609,
+                "RefGlucoseMinimal",
+                "KBaseBiochem.Media-4.1",
+                "2021-08-25T14:53:12+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "ff0f3e5af1eefacf78d923b87d63f2db",
+                3299,
+                {
+                    "Is Defined": "1",
+                    "Is Minimal": "0",
+                    "Name": "Carbon-D-Glucose",
+                    "Number compounds": "20",
+                    "Source ID": "Carbon-D-Glucose"
+                }
+            ],
+            "orig_wsid": 33629,
+            "path": [
+                "97098/609/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "edit_media",
+                    "method_params": [
+                        {
+                            "atmosphere": null,
+                            "atmosphere_addition": null,
+                            "compounds_to_add": [],
+                            "compounds_to_change": [
+                                {
+                                    "change_concentration": 0.001,
+                                    "change_id": "cpd00007",
+                                    "change_maxflux": 100,
+                                    "change_minflux": -100
+                                },
+                                {
+                                    "change_concentration": 0.001,
+                                    "change_id": "cpd00027",
+                                    "change_maxflux": 1,
+                                    "change_minflux": -100
+                                }
+                            ],
+                            "compounds_to_remove": [],
+                            "isDefined": 1,
+                            "media_id": "33629/4/2",
+                            "media_output_id": "Carbon-D-Glucose",
+                            "media_workspace": "chenry:narrative_1529806119124",
+                            "name": null,
+                            "pH_data": null,
+                            "protocol_link": null,
+                            "source": null,
+                            "source_id": null,
+                            "temperature": null,
+                            "type": "unknown",
+                            "workspace": "chenry:narrative_1529806119124"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

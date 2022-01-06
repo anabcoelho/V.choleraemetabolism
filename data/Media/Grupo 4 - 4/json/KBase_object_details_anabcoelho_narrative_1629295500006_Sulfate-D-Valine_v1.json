@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1111,
+            "Sulfate-D-Valine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-31T21:04:16+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "f7c1c77ecd290f69bfb9fc4e7b97a84d",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/449/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:50:21+0000",
+            "creator": "chenry",
+            "epoch": 1392022221483,
+            "extracted_ids": {},
+            "info": [
+                1111,
+                "Sulfate-D-Valine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-31T21:04:16+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "f7c1c77ecd290f69bfb9fc4e7b97a84d",
+                2058,
+                {}
+            ],
+            "path": [
+                "97098/1111/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747873000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:33+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

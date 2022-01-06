@@ -1,0 +1,116 @@
+{
+    "metadata": [
+        [
+            354,
+            "S-R-R-Tartaric-Acid.fba",
+            "KBaseFBA.FBA-13.2",
+            "2021-09-10T19:30:15+0000",
+            1,
+            "anabcoelho",
+            98416,
+            "anabcoelho:narrative_1631138337034",
+            "99b3ec6d6a30a747413d9df8632f2cfd",
+            37608,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "98416/316/1",
+                "Minimize reactions": "0",
+                "Model": "98416/351/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "9",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "39",
+                "Objective": "4.40364"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-09-10T19:30:15+0000",
+            "creator": "anabcoelho",
+            "epoch": 1631302215241,
+            "extracted_ids": {},
+            "info": [
+                354,
+                "S-R-R-Tartaric-Acid.fba",
+                "KBaseFBA.FBA-13.2",
+                "2021-09-10T19:30:15+0000",
+                1,
+                "anabcoelho",
+                98416,
+                "anabcoelho:narrative_1631138337034",
+                "99b3ec6d6a30a747413d9df8632f2cfd",
+                37608,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "98416/316/1",
+                    "Minimize reactions": "0",
+                    "Model": "98416/351/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "9",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "39",
+                    "Objective": "4.40364"
+                }
+            ],
+            "orig_wsid": 98416,
+            "path": [
+                "98416/354/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "S-R-R-Tartaric-Acid.fba",
+                            "fbamodel_id": "98416/351/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "98416/316/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1631138337034"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "98416/316/1",
+                "98416/351/1"
+            ]
+        }
+    ]
+}

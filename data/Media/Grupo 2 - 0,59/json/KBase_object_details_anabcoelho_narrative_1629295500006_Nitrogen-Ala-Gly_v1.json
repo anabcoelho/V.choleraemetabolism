@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            109,
+            "Nitrogen-Ala-Gly",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-19T15:20:15+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "4ac5b289c72a6ef81d2a5bf0c1042ded",
+            2047,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/194/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:50:38+0000",
+            "creator": "chenry",
+            "epoch": 1390038638734,
+            "extracted_ids": {},
+            "info": [
+                109,
+                "Nitrogen-Ala-Gly",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-19T15:20:15+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "4ac5b289c72a6ef81d2a5bf0c1042ded",
+                2047,
+                {}
+            ],
+            "path": [
+                "97098/109/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747853000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:13+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

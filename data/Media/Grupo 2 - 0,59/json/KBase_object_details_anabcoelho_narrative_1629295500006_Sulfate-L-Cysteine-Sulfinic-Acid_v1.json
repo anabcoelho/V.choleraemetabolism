@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1314,
+            "Sulfate-L-Cysteine-Sulfinic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:12:53+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "22ae2db472f223c6659ddc115f9fc17f",
+            2079,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/135/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:34:01+0000",
+            "creator": "chenry",
+            "epoch": 1390037641187,
+            "extracted_ids": {},
+            "info": [
+                1314,
+                "Sulfate-L-Cysteine-Sulfinic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:12:53+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "22ae2db472f223c6659ddc115f9fc17f",
+                2079,
+                {}
+            ],
+            "path": [
+                "97098/1314/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377530737000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:25:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

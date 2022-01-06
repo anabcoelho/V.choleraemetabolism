@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1115,
+            "Sulfate-Ethanolamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-31T21:04:42+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "f00eec02c4d051b5965a28637efd14bf",
+            2065,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/188/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:49:35+0000",
+            "creator": "chenry",
+            "epoch": 1390038575318,
+            "extracted_ids": {},
+            "info": [
+                1115,
+                "Sulfate-Ethanolamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-31T21:04:42+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "f00eec02c4d051b5965a28637efd14bf",
+                2065,
+                {}
+            ],
+            "path": [
+                "97098/1115/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747874000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:34+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

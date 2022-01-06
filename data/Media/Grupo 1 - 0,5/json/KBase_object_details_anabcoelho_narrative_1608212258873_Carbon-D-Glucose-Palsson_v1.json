@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            601,
+            "Carbon-D-Glucose-Palsson",
+            "KBaseBiochem.Media-1.0",
+            "2021-06-02T16:35:01+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "803c8c77e64e160c908cbe7895442eb6",
+            2065,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/138/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:35:04+0000",
+            "creator": "chenry",
+            "epoch": 1390037704165,
+            "extracted_ids": {},
+            "info": [
+                601,
+                "Carbon-D-Glucose-Palsson",
+                "KBaseBiochem.Media-1.0",
+                "2021-06-02T16:35:01+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "803c8c77e64e160c908cbe7895442eb6",
+                2065,
+                {}
+            ],
+            "path": [
+                "79695/601/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747863000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:23+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            107,
+            "Sulfate-N-Acetyl-D-galactosamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-12-11T01:02:03+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "e973daac068badc5bd3d509a9e86fc8f",
+            2089,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/3/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:01:13+0000",
+            "creator": "chenry",
+            "epoch": 1390035673665,
+            "extracted_ids": {},
+            "info": [
+                107,
+                "Sulfate-N-Acetyl-D-galactosamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-12-11T01:02:03+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "e973daac068badc5bd3d509a9e86fc8f",
+                2089,
+                {}
+            ],
+            "path": [
+                "99184/107/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747879000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:39+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "metadata": [
+        [
+            109,
+            "C-D-Glucose",
+            "KBaseBiochem.Media-4.0",
+            "2021-12-11T01:12:22+0000",
+            1,
+            "anabcoelho",
+            99184,
+            "anabcoelho:narrative_1632182780536",
+            "167e38ef1c519c152d16c2b8507c3db4",
+            2345,
+            {
+                "Is Defined": "1",
+                "Is Minimal": "0",
+                "Name": "C-D-Glucose",
+                "Number compounds": "22",
+                "Source ID": "C-D-Glucose"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/527/1",
+            "copy_source_inaccessible": 0,
+            "created": "2015-09-02T17:51:56+0000",
+            "creator": "janakakbase",
+            "epoch": 1441216316536,
+            "extracted_ids": {},
+            "info": [
+                109,
+                "C-D-Glucose",
+                "KBaseBiochem.Media-4.0",
+                "2021-12-11T01:12:22+0000",
+                1,
+                "anabcoelho",
+                99184,
+                "anabcoelho:narrative_1632182780536",
+                "167e38ef1c519c152d16c2b8507c3db4",
+                2345,
+                {
+                    "Is Defined": "1",
+                    "Is Minimal": "0",
+                    "Name": "C-D-Glucose",
+                    "Number compounds": "22",
+                    "Source ID": "C-D-Glucose"
+                }
+            ],
+            "path": [
+                "99184/109/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "resolved_ws_objects": [],
+                    "script": "ws-load",
+                    "script_command_line": "ws-load  KBaseBiochem.Media C-D-Glucose C-D-Glucose -w KBaseMedia",
+                    "service": "Workspace",
+                    "service_ver": "0.3.5",
+                    "subactions": []
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

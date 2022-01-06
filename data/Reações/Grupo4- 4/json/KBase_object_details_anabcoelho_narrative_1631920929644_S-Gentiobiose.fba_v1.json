@@ -1,0 +1,116 @@
+{
+    "metadata": [
+        [
+            403,
+            "S-Gentiobiose.fba",
+            "KBaseFBA.FBA-13.2",
+            "2021-09-20T02:37:09+0000",
+            1,
+            "anabcoelho",
+            99021,
+            "anabcoelho:narrative_1631920929644",
+            "0209fc788b82a1593b435f86976e573d",
+            37602,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "99021/368/1",
+                "Minimize reactions": "0",
+                "Model": "99021/400/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "9",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "39",
+                "Objective": "4.40364"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-09-20T02:37:09+0000",
+            "creator": "anabcoelho",
+            "epoch": 1632105429351,
+            "extracted_ids": {},
+            "info": [
+                403,
+                "S-Gentiobiose.fba",
+                "KBaseFBA.FBA-13.2",
+                "2021-09-20T02:37:09+0000",
+                1,
+                "anabcoelho",
+                99021,
+                "anabcoelho:narrative_1631920929644",
+                "0209fc788b82a1593b435f86976e573d",
+                37602,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "99021/368/1",
+                    "Minimize reactions": "0",
+                    "Model": "99021/400/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "9",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "39",
+                    "Objective": "4.40364"
+                }
+            ],
+            "orig_wsid": 99021,
+            "path": [
+                "99021/403/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "S-Gentiobiose.fba",
+                            "fbamodel_id": "99021/400/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "99021/368/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1631920929644"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "99021/368/1",
+                "99021/400/1"
+            ]
+        }
+    ]
+}

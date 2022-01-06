@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            735,
+            "Sulfate-6-Deoxy-D-galactose",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-26T02:02:22+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "9d174f22d22a420b39f9a681f86ce0aa",
+            2079,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/23/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:06:07+0000",
+            "creator": "chenry",
+            "epoch": 1390035967156,
+            "extracted_ids": {},
+            "info": [
+                735,
+                "Sulfate-6-Deoxy-D-galactose",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-26T02:02:22+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "9d174f22d22a420b39f9a681f86ce0aa",
+                2079,
+                {}
+            ],
+            "path": [
+                "97098/735/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747869000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:29+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

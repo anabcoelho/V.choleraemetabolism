@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1311,
+            "Sulfate-L-Citrulline",
+            "KBaseBiochem.Media-1.0",
+            "2021-09-06T23:12:39+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "777550ebe4fce5af3667df721330ba00",
+            2065,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/204/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:53:05+0000",
+            "creator": "chenry",
+            "epoch": 1390038785340,
+            "extracted_ids": {},
+            "info": [
+                1311,
+                "Sulfate-L-Citrulline",
+                "KBaseBiochem.Media-1.0",
+                "2021-09-06T23:12:39+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "777550ebe4fce5af3667df721330ba00",
+                2065,
+                {}
+            ],
+            "path": [
+                "97098/1311/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747876000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:36+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

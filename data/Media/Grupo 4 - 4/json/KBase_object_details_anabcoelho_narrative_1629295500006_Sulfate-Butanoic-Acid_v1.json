@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            750,
+            "Sulfate-Butanoic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-26T02:03:16+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "621f6768373d3bdc637d30b2f40eb2f9",
+            2068,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/333/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:31:10+0000",
+            "creator": "chenry",
+            "epoch": 1392021070533,
+            "extracted_ids": {},
+            "info": [
+                750,
+                "Sulfate-Butanoic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-26T02:03:16+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "621f6768373d3bdc637d30b2f40eb2f9",
+                2068,
+                {}
+            ],
+            "path": [
+                "97098/750/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532765000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:59:25+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

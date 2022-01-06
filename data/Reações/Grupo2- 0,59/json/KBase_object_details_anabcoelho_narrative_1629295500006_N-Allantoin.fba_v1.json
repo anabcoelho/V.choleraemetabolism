@@ -1,0 +1,116 @@
+{
+    "metadata": [
+        [
+            176,
+            "N-Allantoin.fba",
+            "KBaseFBA.FBA-13.2",
+            "2021-08-20T18:27:09+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "a0079ded5a95e2e696a3b7180d690ef4",
+            37630,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "97098/113/1",
+                "Minimize reactions": "0",
+                "Model": "97098/169/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "9",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "39",
+                "Objective": "0.59482"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2021-08-20T18:27:09+0000",
+            "creator": "anabcoelho",
+            "epoch": 1629484029039,
+            "extracted_ids": {},
+            "info": [
+                176,
+                "N-Allantoin.fba",
+                "KBaseFBA.FBA-13.2",
+                "2021-08-20T18:27:09+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "a0079ded5a95e2e696a3b7180d690ef4",
+                37630,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "97098/113/1",
+                    "Minimize reactions": "0",
+                    "Model": "97098/169/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "9",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "39",
+                    "Objective": "0.59482"
+                }
+            ],
+            "orig_wsid": 97098,
+            "path": [
+                "97098/176/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "N-Allantoin.fba",
+                            "fbamodel_id": "97098/169/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "97098/113/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1629295500006"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "97098/113/1",
+                "97098/169/1"
+            ]
+        }
+    ]
+}

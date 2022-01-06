@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            347,
+            "Nitrogen-L-Cysteine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-23T01:37:49+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "3170013a9ec6baa302476812484da16f",
+            2053,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/132/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:33:19+0000",
+            "creator": "chenry",
+            "epoch": 1390037599650,
+            "extracted_ids": {},
+            "info": [
+                347,
+                "Nitrogen-L-Cysteine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-23T01:37:49+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "3170013a9ec6baa302476812484da16f",
+                2053,
+                {}
+            ],
+            "path": [
+                "97098/347/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747849000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:09+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

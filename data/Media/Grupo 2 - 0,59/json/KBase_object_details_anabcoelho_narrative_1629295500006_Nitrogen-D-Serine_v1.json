@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            205,
+            "Nitrogen-D-Serine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-20T20:53:17+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "194d2a79ba0329192fb1fc66f469b305",
+            2049,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/183/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:48:20+0000",
+            "creator": "chenry",
+            "epoch": 1390038500543,
+            "extracted_ids": {},
+            "info": [
+                205,
+                "Nitrogen-D-Serine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-20T20:53:17+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "194d2a79ba0329192fb1fc66f469b305",
+                2049,
+                {}
+            ],
+            "path": [
+                "97098/205/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747851000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:11+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}
