@@ -1,0 +1,97 @@
+{
+  "metadata" : [
+    [
+      121,
+      "Complete_Core",
+      "KBaseFBA.FBAModel-14.0",
+      "2021-12-17T17:11:32+0000",
+      1,
+      "anabcoelho",
+      99184,
+      "anabcoelho:narrative_1632182780536",
+      "0ccd2fc18218d55ad1033dbf95f1bd03",
+      59711,
+      {
+        "Genome" : "99184/17/2",
+        "Name" : "Complete_Core",
+        "Number biomasses" : "2",
+        "Number compartments" : "2",
+        "Number compounds" : "61",
+        "Number gapfills" : "1",
+        "Number gapgens" : "0",
+        "Number reactions" : "42",
+        "Source" : "KBase",
+        "Source ID" : "Complete_Core",
+        "Type" : "GenomeScale"
+      }
+    ]
+  ],
+  "provenance" : [
+    {
+      "copy_source_inaccessible" : null,
+      "created" : "2021-12-17T17:11:30+0000",
+      "creator" : "anabcoelho",
+      "extracted_ids" : null,
+      "info" : [
+        121,
+        "Complete_Core",
+        "KBaseFBA.FBAModel-14.0",
+        "2021-12-17T17:11:32+0000",
+        1,
+        "anabcoelho",
+        99184,
+        "anabcoelho:narrative_1632182780536",
+        "0ccd2fc18218d55ad1033dbf95f1bd03",
+        59711,
+        {
+          "Genome" : "99184/17/2",
+          "Name" : "Complete_Core",
+          "Number biomasses" : "2",
+          "Number compartments" : "2",
+          "Number compounds" : "61",
+          "Number gapfills" : "1",
+          "Number gapgens" : "0",
+          "Number reactions" : "42",
+          "Source" : "KBase",
+          "Source ID" : "Complete_Core",
+          "Type" : "GenomeScale"
+        }
+      ],
+      "provenance" : [
+        {
+          "custom" : { },
+          "external_data" : [ ],
+          "input_ws_objects" : [ ],
+          "method" : "build_metabolic_model",
+          "method_params" : [
+            {
+              "accept_charge_imbalanced" : 0,
+              "accept_mass_imbalanced" : 0,
+              "classic" : 0,
+              "custom_bound_list" : [ ],
+              "fbamodel_output_id" : "Complete_Core",
+              "gapfill_model" : 1,
+              "genome_id" : "99184/17/2",
+              "media_id" : null,
+              "media_supplement_list" : "",
+              "merge_all_annotations" : 0,
+              "minimum_target_flux" : 0.1,
+              "source_ontology_list" : "",
+              "template_id" : "core",
+              "use_annotated_functions" : 1,
+              "use_nontemplate_reactions" : 0,
+              "workspace" : "anabcoelho:narrative_1632182780536"
+            }
+          ],
+          "resolved_ws_objects" : [ ],
+          "service" : "fba_tools",
+          "subactions" : [ ]
+        }
+      ],
+      "refs" : [
+        "99184/17/2",
+        "262/34/1"
+      ]
+    }
+  ]
+}

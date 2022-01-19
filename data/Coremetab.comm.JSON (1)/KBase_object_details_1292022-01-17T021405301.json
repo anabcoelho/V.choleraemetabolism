@@ -1,0 +1,86 @@
+{
+  "metadata" : [
+    [
+      129,
+      "Coremetab.comm",
+      "KBaseFBA.FBAModel-14.0",
+      "2022-01-17T02:13:33+0000",
+      1,
+      "anabcoelho",
+      99184,
+      "anabcoelho:narrative_1632182780536",
+      "6b8b78de47c896e01b2a7925ed21d6dd",
+      59406,
+      {
+        "Genome" : "99184/17/2",
+        "Name" : "Coremetab.comm",
+        "Number biomasses" : "3",
+        "Number compartments" : "3",
+        "Number compounds" : "62",
+        "Number gapfills" : "0",
+        "Number gapgens" : "0",
+        "Number reactions" : "42",
+        "Source" : "KBase",
+        "Source ID" : "Coremetab.comm",
+        "Type" : "CommunityModel"
+      }
+    ]
+  ],
+  "provenance" : [
+    {
+      "copy_source_inaccessible" : null,
+      "created" : "2022-01-17T02:13:33+0000",
+      "creator" : "anabcoelho",
+      "extracted_ids" : null,
+      "info" : [
+        129,
+        "Coremetab.comm",
+        "KBaseFBA.FBAModel-14.0",
+        "2022-01-17T02:13:33+0000",
+        1,
+        "anabcoelho",
+        99184,
+        "anabcoelho:narrative_1632182780536",
+        "6b8b78de47c896e01b2a7925ed21d6dd",
+        59406,
+        {
+          "Genome" : "99184/17/2",
+          "Name" : "Coremetab.comm",
+          "Number biomasses" : "3",
+          "Number compartments" : "3",
+          "Number compounds" : "62",
+          "Number gapfills" : "0",
+          "Number gapgens" : "0",
+          "Number reactions" : "42",
+          "Source" : "KBase",
+          "Source ID" : "Coremetab.comm",
+          "Type" : "CommunityModel"
+        }
+      ],
+      "provenance" : [
+        {
+          "custom" : { },
+          "external_data" : [ ],
+          "input_ws_objects" : [ ],
+          "method" : "merge_metabolic_models_into_community_model",
+          "method_params" : [
+            {
+              "fbamodel_id_list" : [
+                "99184/124/1"
+              ],
+              "fbamodel_output_id" : "Coremetab.comm",
+              "mixed_bag_model" : 0,
+              "workspace" : "anabcoelho:narrative_1632182780536"
+            }
+          ],
+          "resolved_ws_objects" : [ ],
+          "service" : "fba_tools",
+          "subactions" : [ ]
+        }
+      ],
+      "refs" : [
+        "99184/17/2"
+      ]
+    }
+  ]
+}

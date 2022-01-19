@@ -1,0 +1,117 @@
+{
+    "metadata": [
+        [
+            3,
+            "Coremetab.fba",
+            "KBaseFBA.FBA-13.2",
+            "2022-01-17T02:26:40+0000",
+            1,
+            "anabcoelho",
+            107246,
+            "anabcoelho:narrative_1642386127042",
+            "ced8205e087fc021db8f80383e2a9190",
+            39864,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "262/34/1",
+                "Minimize reactions": "0",
+                "Model": "99184/124/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "10",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "42",
+                "Objective": "9.05453"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "99184/127/1",
+            "copy_source_inaccessible": 0,
+            "created": "2022-01-17T02:11:59+0000",
+            "creator": "anabcoelho",
+            "epoch": 1642385519463,
+            "extracted_ids": {},
+            "info": [
+                3,
+                "Coremetab.fba",
+                "KBaseFBA.FBA-13.2",
+                "2022-01-17T02:26:40+0000",
+                1,
+                "anabcoelho",
+                107246,
+                "anabcoelho:narrative_1642386127042",
+                "ced8205e087fc021db8f80383e2a9190",
+                39864,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "262/34/1",
+                    "Minimize reactions": "0",
+                    "Model": "99184/124/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "10",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "42",
+                    "Objective": "9.05453"
+                }
+            ],
+            "orig_wsid": 99184,
+            "path": [
+                "107246/3/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "Coremetab.fba",
+                            "fbamodel_id": "99184/124/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": null,
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "anabcoelho:narrative_1632182780536"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "99184/124/1",
+                "262/34/1"
+            ]
+        }
+    ]
+}
