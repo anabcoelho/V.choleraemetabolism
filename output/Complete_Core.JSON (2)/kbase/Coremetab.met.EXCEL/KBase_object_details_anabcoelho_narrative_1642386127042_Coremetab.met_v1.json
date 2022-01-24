@@ -1,0 +1,103 @@
+{
+    "metadata": [
+        [
+            2,
+            "Coremetab.met",
+            "KBaseFBA.FBAModel-14.0",
+            "2022-01-17T02:26:39+0000",
+            1,
+            "anabcoelho",
+            107246,
+            "anabcoelho:narrative_1642386127042",
+            "55381faeee2152b8dd75c72b6abb5c46",
+            59711,
+            {
+                "Genome": "99184/17/2",
+                "Name": "Coremetab.met",
+                "Number biomasses": "2",
+                "Number compartments": "2",
+                "Number compounds": "61",
+                "Number gapfills": "1",
+                "Number gapgens": "0",
+                "Number reactions": "42",
+                "Source": "KBase",
+                "Source ID": "Coremetab.met",
+                "Type": "GenomeScale"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "99184/124/1",
+            "copy_source_inaccessible": 0,
+            "created": "2022-01-17T02:10:20+0000",
+            "creator": "anabcoelho",
+            "epoch": 1642385420267,
+            "extracted_ids": {},
+            "info": [
+                2,
+                "Coremetab.met",
+                "KBaseFBA.FBAModel-14.0",
+                "2022-01-17T02:26:39+0000",
+                1,
+                "anabcoelho",
+                107246,
+                "anabcoelho:narrative_1642386127042",
+                "55381faeee2152b8dd75c72b6abb5c46",
+                59711,
+                {
+                    "Genome": "99184/17/2",
+                    "Name": "Coremetab.met",
+                    "Number biomasses": "2",
+                    "Number compartments": "2",
+                    "Number compounds": "61",
+                    "Number gapfills": "1",
+                    "Number gapgens": "0",
+                    "Number reactions": "42",
+                    "Source": "KBase",
+                    "Source ID": "Coremetab.met",
+                    "Type": "GenomeScale"
+                }
+            ],
+            "orig_wsid": 99184,
+            "path": [
+                "107246/2/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "method": "build_metabolic_model",
+                    "method_params": [
+                        {
+                            "accept_charge_imbalanced": 0,
+                            "accept_mass_imbalanced": 0,
+                            "classic": 0,
+                            "custom_bound_list": [],
+                            "fbamodel_output_id": "Coremetab.met",
+                            "gapfill_model": 1,
+                            "genome_id": "99184/17/2",
+                            "media_id": null,
+                            "media_supplement_list": "",
+                            "merge_all_annotations": 0,
+                            "minimum_target_flux": 0.1,
+                            "source_ontology_list": "",
+                            "template_id": "core",
+                            "use_annotated_functions": 1,
+                            "use_nontemplate_reactions": 0,
+                            "workspace": "anabcoelho:narrative_1632182780536"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "99184/17/2",
+                "262/34/1"
+            ]
+        }
+    ]
+}
