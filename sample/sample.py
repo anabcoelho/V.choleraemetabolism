@@ -4,7 +4,7 @@ from os.path import isfile, join
 import pandas as pd
 
 #Locais
-pasta = 'C:\\Users\\anabe\\OneDrive\\Área de Trabalho\\faculdade\\@Lab\\Bisch\\V.cholerae1\\Não anotado\\Análise_meios\\Biolog'
+pasta = '..//data//Reações//Grupo1- 0,5 -//Excel'
 
 reactions=True
 media = False
