@@ -9,14 +9,15 @@ import pandas as pd
 
 
 #Locais
-pasta = '..//data//Reações//Grupo1- 0,5 -//Excel'
+pasta = '..//data//Reações//Grupo3- 1 (entre)//Excel'
 files = [f for f in listdir(pasta) if isfile(join(pasta, f))]
-print(files)
-
 # files tem uma lista com o nome de todos os arquivos da pasta
 
+grp= 1.0
+
+
 cols=['id','flux']
-grp= 0.3
+
 d = {'Namemedia': [], 'bio1': [], '#reactions': [], "grp": []}
 df = pd.DataFrame(d)
 
@@ -26,18 +27,18 @@ for i in range(len(files)):
    with pd.ExcelFile(arq) as xlsx: #leitura arquivo
        df2 = pd.read_excel(arq, sheet_name=1)
        df2=df2[cols] #caso queira todas, remover
-       print(df2)
+
    countlines= len(df2.index)
-   print(countlines)
+
    bio1loc= countlines-2
    bio1value= df2.at[bio1loc,'flux']
 
    newline = {'Namemedia': files[i], 'bio1': bio1value, '#reactions': countlines-3, "grp":grp}
-   df = df.append(newline, ignore_index=True)
+   df = df.append(newline, ignore_index=True) # warning The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
    xlsx.close()
    #name='' #nada ''
 
 
 #export
-df.to_excel(pasta+'\\@analisereação.xlsx', index = False)
+df.to_excel('..\\data\\Reações\\Reaction_analysis\\@analisereação'+ 'grp'+ str(grp) + '.xlsx', index = False)
 print('done saving')
