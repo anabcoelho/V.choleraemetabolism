@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1066,
+            "Carbon-N-Acetyl-D-Galactosamine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-05T02:50:16+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "68ac8caa5f2474622216d28c458cdd3a",
+            2078,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/286/2",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:23:51+0000",
+            "creator": "chenry",
+            "epoch": 1392020631162,
+            "extracted_ids": {},
+            "info": [
+                1066,
+                "Carbon-N-Acetyl-D-Galactosamine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-05T02:50:16+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "68ac8caa5f2474622216d28c458cdd3a",
+                2078,
+                {}
+            ],
+            "path": [
+                "79695/1066/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747856000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:16+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

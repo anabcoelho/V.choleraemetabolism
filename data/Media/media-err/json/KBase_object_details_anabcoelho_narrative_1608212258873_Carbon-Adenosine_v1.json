@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            296,
+            "Carbon-Adenosine",
+            "KBaseBiochem.Media-1.0",
+            "2021-03-17T03:38:59+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "e7f791a36ff5271b2aedc1b20d613eff",
+            2047,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/113/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:28:43+0000",
+            "creator": "chenry",
+            "epoch": 1390037323407,
+            "extracted_ids": {},
+            "info": [
+                296,
+                "Carbon-Adenosine",
+                "KBaseBiochem.Media-1.0",
+                "2021-03-17T03:38:59+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "e7f791a36ff5271b2aedc1b20d613eff",
+                2047,
+                {}
+            ],
+            "path": [
+                "79695/296/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747867000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:27+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

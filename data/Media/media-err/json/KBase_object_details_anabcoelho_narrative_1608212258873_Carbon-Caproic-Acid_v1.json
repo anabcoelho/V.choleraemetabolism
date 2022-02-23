@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            441,
+            "Carbon-Caproic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-04-08T17:33:27+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "54e341f45785038765bdbc9f0d07f57e",
+            2056,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/374/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:37:51+0000",
+            "creator": "chenry",
+            "epoch": 1392021471776,
+            "extracted_ids": {},
+            "info": [
+                441,
+                "Carbon-Caproic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-04-08T17:33:27+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "54e341f45785038765bdbc9f0d07f57e",
+                2056,
+                {}
+            ],
+            "path": [
+                "79695/441/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532597000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:56:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

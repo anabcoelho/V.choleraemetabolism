@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            375,
+            "Carbon-2-3-Butanone",
+            "KBaseBiochem.Media-1.0",
+            "2021-03-25T17:19:52+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "d71e887508fe7b9f85279d7b17e2bd7f",
+            2055,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/47/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:13:14+0000",
+            "creator": "chenry",
+            "epoch": 1390036394189,
+            "extracted_ids": {},
+            "info": [
+                375,
+                "Carbon-2-3-Butanone",
+                "KBaseBiochem.Media-1.0",
+                "2021-03-25T17:19:52+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "d71e887508fe7b9f85279d7b17e2bd7f",
+                2055,
+                {}
+            ],
+            "path": [
+                "79695/375/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532453000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:54:13+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

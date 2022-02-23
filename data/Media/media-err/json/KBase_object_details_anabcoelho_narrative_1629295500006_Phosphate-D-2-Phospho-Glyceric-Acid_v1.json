@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            580,
+            "Phosphate-D-2-Phospho-Glyceric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:50:58+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "0c349d35ab316c660ad0ff02ec6560e7",
+            2085,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/30/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:08:56+0000",
+            "creator": "chenry",
+            "epoch": 1390036136853,
+            "extracted_ids": {},
+            "info": [
+                580,
+                "Phosphate-D-2-Phospho-Glyceric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:50:58+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "0c349d35ab316c660ad0ff02ec6560e7",
+                2085,
+                {}
+            ],
+            "path": [
+                "97098/580/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1379604865000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-09-19T15:34:25+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            443,
+            "Carbon-Chondroitin-Sulfate-C",
+            "KBaseBiochem.Media-1.0",
+            "2021-04-08T17:33:33+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "c2b83cb75cc0776b4fde2b611d3c62c2",
+            2072,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/472/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:54:06+0000",
+            "creator": "chenry",
+            "epoch": 1392022446505,
+            "extracted_ids": {},
+            "info": [
+                443,
+                "Carbon-Chondroitin-Sulfate-C",
+                "KBaseBiochem.Media-1.0",
+                "2021-04-08T17:33:33+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "c2b83cb75cc0776b4fde2b611d3c62c2",
+                2072,
+                {}
+            ],
+            "path": [
+                "79695/443/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532599000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:56:39+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

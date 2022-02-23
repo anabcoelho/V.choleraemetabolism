@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1076,
+            "Carbon-Putrescine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-05T02:51:32+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "007574aa14717f68a44f005fc2c57690",
+            2049,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/211/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:54:52+0000",
+            "creator": "chenry",
+            "epoch": 1390038892531,
+            "extracted_ids": {},
+            "info": [
+                1076,
+                "Carbon-Putrescine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-05T02:51:32+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "007574aa14717f68a44f005fc2c57690",
+                2049,
+                {}
+            ],
+            "path": [
+                "79695/1076/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747855000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:15+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

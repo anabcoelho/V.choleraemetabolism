@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            541,
+            "Carbon-D-Gluconic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-05-26T19:37:22+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "b982a2430d5b8ba597ae7ff3bed144be",
+            2059,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/24/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:06:34+0000",
+            "creator": "chenry",
+            "epoch": 1390035994056,
+            "extracted_ids": {},
+            "info": [
+                541,
+                "Carbon-D-Gluconic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-05-26T19:37:22+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "b982a2430d5b8ba597ae7ff3bed144be",
+                2059,
+                {}
+            ],
+            "path": [
+                "79695/541/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532620000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:00+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            538,
+            "Carbon-D-Galactonic-Acid-g-Lactone",
+            "KBaseBiochem.Media-1.0",
+            "2021-05-26T19:37:14+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "d24cd489c8ea721656a9446951eb5428",
+            2082,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/388/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:40:14+0000",
+            "creator": "chenry",
+            "epoch": 1392021614254,
+            "extracted_ids": {},
+            "info": [
+                538,
+                "Carbon-D-Galactonic-Acid-g-Lactone",
+                "KBaseBiochem.Media-1.0",
+                "2021-05-26T19:37:14+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "d24cd489c8ea721656a9446951eb5428",
+                2082,
+                {}
+            ],
+            "path": [
+                "79695/538/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377553934000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T21:52:14+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

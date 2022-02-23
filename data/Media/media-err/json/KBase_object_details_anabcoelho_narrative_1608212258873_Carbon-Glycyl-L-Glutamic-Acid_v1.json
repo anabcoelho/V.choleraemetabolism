@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            774,
+            "Carbon-Glycyl-L-Glutamic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-07-16T17:49:38+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "df2387fc997462b18e01d0dde1cb99e5",
+            2073,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/88/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:22:24+0000",
+            "creator": "chenry",
+            "epoch": 1390036944460,
+            "extracted_ids": {},
+            "info": [
+                774,
+                "Carbon-Glycyl-L-Glutamic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-07-16T17:49:38+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "df2387fc997462b18e01d0dde1cb99e5",
+                2073,
+                {}
+            ],
+            "path": [
+                "79695/774/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532657000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:37+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

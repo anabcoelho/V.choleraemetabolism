@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            574,
+            "Phosphate-Carbamyl-Phosphate",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-25T14:50:31+0000",
+            1,
+            "anabcoelho",
+            97098,
+            "anabcoelho:narrative_1629295500006",
+            "9ee99fbbb60519eb3223b691ec28f6c7",
+            2074,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/377/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:38:21+0000",
+            "creator": "chenry",
+            "epoch": 1392021501880,
+            "extracted_ids": {},
+            "info": [
+                574,
+                "Phosphate-Carbamyl-Phosphate",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-25T14:50:31+0000",
+                1,
+                "anabcoelho",
+                97098,
+                "anabcoelho:narrative_1629295500006",
+                "9ee99fbbb60519eb3223b691ec28f6c7",
+                2074,
+                {}
+            ],
+            "path": [
+                "97098/574/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532733000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:58:53+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

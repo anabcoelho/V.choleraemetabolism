@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            1304,
+            "Carbon-g-Amino-Butyric-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-15T03:32:06+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "ce492966d62c318bb4e6d8795f196ce6",
+            2069,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/177/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:46:40+0000",
+            "creator": "chenry",
+            "epoch": 1390038400965,
+            "extracted_ids": {},
+            "info": [
+                1304,
+                "Carbon-g-Amino-Butyric-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-15T03:32:06+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "ce492966d62c318bb4e6d8795f196ce6",
+                2069,
+                {}
+            ],
+            "path": [
+                "79695/1304/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532651000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:31+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

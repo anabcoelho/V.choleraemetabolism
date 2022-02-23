@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            430,
+            "Carbon-4-Hydroxy-Benzoic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-04-08T17:31:05+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "f7fec8790e4071dfbfee30403fa27ffb",
+            2074,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/423/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:46:00+0000",
+            "creator": "chenry",
+            "epoch": 1392021960192,
+            "extracted_ids": {},
+            "info": [
+                430,
+                "Carbon-4-Hydroxy-Benzoic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-04-08T17:31:05+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "f7fec8790e4071dfbfee30403fa27ffb",
+                2074,
+                {}
+            ],
+            "path": [
+                "79695/430/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532573000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:56:13+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

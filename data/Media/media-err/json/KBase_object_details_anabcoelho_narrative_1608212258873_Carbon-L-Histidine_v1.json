@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            889,
+            "Carbon-L-Histidine",
+            "KBaseBiochem.Media-1.0",
+            "2021-08-02T16:59:51+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "54cda22881d6861259c698986bf4c1fb",
+            2051,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/157/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-01-18T09:41:30+0000",
+            "creator": "chenry",
+            "epoch": 1390038090125,
+            "extracted_ids": {},
+            "info": [
+                889,
+                "Carbon-L-Histidine",
+                "KBaseBiochem.Media-1.0",
+                "2021-08-02T16:59:51+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "54cda22881d6861259c698986bf4c1fb",
+                2051,
+                {}
+            ],
+            "path": [
+                "79695/889/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1371747859000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "load_media_from_bio",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-06-20T17:04:19+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}

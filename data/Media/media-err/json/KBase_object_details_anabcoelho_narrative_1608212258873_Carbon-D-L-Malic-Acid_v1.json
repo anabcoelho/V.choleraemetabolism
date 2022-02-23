@@ -1,0 +1,61 @@
+{
+    "metadata": [
+        [
+            605,
+            "Carbon-D-L-Malic-Acid",
+            "KBaseBiochem.Media-1.0",
+            "2021-06-02T16:35:20+0000",
+            1,
+            "anabcoelho",
+            79695,
+            "anabcoelho:narrative_1608212258873",
+            "0f8fae47e586afbd1d3e4f5233cbf483",
+            2058,
+            {}
+        ]
+    ],
+    "provenance": [
+        {
+            "copied": "262/386/1",
+            "copy_source_inaccessible": 0,
+            "created": "2014-02-10T08:39:53+0000",
+            "creator": "chenry",
+            "epoch": 1392021593442,
+            "extracted_ids": {},
+            "info": [
+                605,
+                "Carbon-D-L-Malic-Acid",
+                "KBaseBiochem.Media-1.0",
+                "2021-06-02T16:35:20+0000",
+                1,
+                "anabcoelho",
+                79695,
+                "anabcoelho:narrative_1608212258873",
+                "0f8fae47e586afbd1d3e4f5233cbf483",
+                2058,
+                {}
+            ],
+            "path": [
+                "79695/605/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "epoch": 1377532638000,
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "move_object",
+                    "method_params": [],
+                    "resolved_ws_objects": [],
+                    "service": "KBaseFBAModeling",
+                    "service_ver": "0",
+                    "subactions": [],
+                    "time": "2013-08-26T15:57:18+0000"
+                }
+            ],
+            "refs": []
+        }
+    ]
+}
