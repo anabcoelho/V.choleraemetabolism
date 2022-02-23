@@ -9,11 +9,11 @@ import pandas as pd
 
 
 #Locais
-pasta = '..//data//Reações//Grupo3- 1 (entre)//Excel'
+pasta = '..//data//Media//media-err//xlsx'
 files = [f for f in listdir(pasta) if isfile(join(pasta, f))]
 # files tem uma lista com o nome de todos os arquivos da pasta
 
-grp= 1.0
+grp= "0flux"
 
 
 cols=['id','flux']
@@ -25,6 +25,7 @@ for i in range(len(files)):
    arq= pasta+'\\'+files[i]
 
    with pd.ExcelFile(arq) as xlsx: #leitura arquivo
+
        df2 = pd.read_excel(arq, sheet_name=1)
        df2=df2[cols] #caso queira todas, remover
 

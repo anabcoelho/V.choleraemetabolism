@@ -4,18 +4,18 @@ from os.path import isfile, join
 import pandas as pd
 
 #Locais
-pasta = '..//data//Reações//Grupo1- 0,5 -//Excel'
+pasta = '..//data//Media//media-err//xlsx'
 
-reactions=True
-media = False
-iskbase=True
+reactions=False
+media = True
+iskbase=False
 results=False
 
 inner=False
 outer=True
 
 fluxo=False
-composi=False
+composi=True
 
 files = [f for f in listdir(pasta) if isfile(join(pasta, f))]
 print(files)
