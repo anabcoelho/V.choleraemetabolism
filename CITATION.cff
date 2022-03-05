@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Vibrio cholerae core metabolism
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - name-particle: Ana Beatriz
+    family-names: Rodrigues
+    orcid: 'https://orcid.org/0000-0002-3838-5845'
+    affiliation: Universidade Federal do Rio de Janeiro
